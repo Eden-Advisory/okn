@@ -32,10 +32,22 @@ The project will adhere to data protection regulations, ethical AI principles, a
 
 The budget overview will include the following cost categories:
 
-Personnel: Salaries for the project manager, researchers, software developers, and administrative support.
-Travel: Expenses for attending conferences, workshops, and stakeholder meetings.
-Equipment: Necessary hardware and software resources for the project.
-Subcontracts: Services provided by partnering organizations, if applicable.
-Other Direct Costs: Expenses related to training, materials, and communication.
-Indirect Costs: Overhead costs associated with project administration.
-[Please provide a basic budget]
+ - Personnel: Salaries for the project manager, researchers, software developers, and administrative support.
+    - $650k / 3 yr
+        - Project & Social Media Manager
+        - Principal Investigator / Architect
+        - Data Scientist Researcher / Specialist
+        - UI/UX Analytics Researcher / Specialist
+        - Bookkeeper / Accountant
+ - Travel: Expenses for attending conferences, workshops, and stakeholder meetings.
+    - $30k / allotted / 3 year
+ - Equipment: Necessary hardware and software resources for the project.
+    - $30k / Hardware + Cloud OpEX / per year
+ - Subcontracts: Services provided by partnering organizations, if applicable.
+    - $250k / 3 yr
+ - Other Direct Costs: Expenses related to training, materials, and communication.
+    - $50k / adminstrative tools, software, licensing
+ - Indirect Costs: Overhead costs associated with project administration.
+    - $60k / Accounting / Bookkeeping / Tools & Licenses
+
+ [Please provide a basic budget]
